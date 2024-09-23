@@ -1,0 +1,53 @@
+declare -gx REPL_OWNER_ID=21841288
+declare -gx XDG_CACHE_HOME=/home/runner/Calcy/.cache
+declare -gx REPLIT_RTLD_LOADER=1
+declare -gx REPLIT_SUBCLUSTER=interactive
+declare -gx REPL_ID=42b475b7-c8c4-4ed6-a76b-63dc4e4c7276
+declare -gx NIXPKGS_ALLOW_UNFREE=1
+declare -gx REPL_PUBKEYS='{"crosis-ci":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:1":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:latest":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","prod":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:1":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:2":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:3":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:4":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:5":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:latest":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","vault-goval-token":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:1":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:latest":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E="}'
+declare -gx COLORTERM=truecolor
+declare -gx PROMPT_DIRTRIM=2
+declare -gx REPL_OWNER=Sahil21dev
+declare -gx DOCKER_CONFIG=/home/runner/Calcy/.config/docker
+declare -gx NIX_PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
+declare -gx NIX_PROFILES='/nix/var/nix/profiles/default /home/runner/.nix-profile'
+declare -gx LIBGL_DRIVERS_PATH=/nix/store/0lfnrz6nq5myv787cih78knzaqy9z9fc-mesa-23.1.9-drivers/lib/dri
+declare -gx REPLIT_CLUSTER=picard
+declare -gx GIT_EDITOR=replit-git-editor
+declare -gx REPLIT_CLI=/nix/store/0v5b1imsnb5jg5vq4garx8s56iw63pl5-pid1-0.0.1/bin/replit
+declare -gx REPLIT_PID1_VERSION=0.0.0-71bddfd
+declare -gx REPLIT_ENVIRONMENT=production
+declare -gx USER=runner
+declare -gx __EGL_VENDOR_LIBRARY_FILENAMES=/nix/store/0lfnrz6nq5myv787cih78knzaqy9z9fc-mesa-23.1.9-drivers/share/glvnd/egl_vendor.d/50_mesa.json
+declare -gx REPLIT_PID1_FLAG_REPLIT_RTLD_LOADER=1
+declare -gx LANG=en_US.UTF-8
+declare -gx REPL_IDENTITY=v2.public.Q2lRME1tSTBOelZpTnkxak9HTTBMVFJsWkRZdFlUYzJZaTAyTTJSak5HVTBZemN5TnpZU0NsTmhhR2xzTWpGa1pYWWFCVU5oYkdONUlpUTBNbUkwTnpWaU55MWpPR00wTFRSbFpEWXRZVGMyWWkwMk0yUmpOR1UwWXpjeU56WTRpSXUxQ2xvVkNnWndhV05oY21RU0MybHVkR1Z5WVdOMGFYWmwIFGehwiBy3URQvh74l3vnMmMQsIvngv3wTSwIRYwCVr4bJVTO9Lx8JPT8NdK9MIgXQzxRs-Ru1I8ymnQT9mAK.R0FFaUJtTnZibTFoYmhLV0NIWXlMbkIxWW14cFl5NVJNbVF6VTFoVmNsVXllREJrTVd4U1RtcFdiVnBVYkVKVFZrNUZVVmRzVEUxdFJYbE5NRXB2VWtob2RVOVVZM2RSVjJoMlVUQmtRbFpYUmt0YU1qbHlWR3RTUzJGVk5VVlpla1phWVcxT01GZFljRzloYXpWRVRVUkNZVll4UlhsVVJtUkdUVEExZEZOWVVrOWhhelZ5VjFod1UySkZOVWhVVkU1T1lXMU5lVkl5WkROVk1FNXpWRzFvYUZJeWVIcFVWM0JIWVRGd1dWZFhSa05XUjJ4S1lWUmtWbE13Wkc1YU1teERZbXRLZDFkVVNrZGxWbkJEWWpBMVRGb3pVbmRaYlRWVFlrZE9kRkp0Y0d0U01uZDVWMnhPU2sxWFJqWlRXRlpxVTBaYWNGbHJaSE5oYTNoMFpFaG9VMUpVYkhwV1YzUkxZVEZTYzFac1FsaFdWa3BPVjJ0YVExRnNWalpWYTJ4b1ZqRnZNbFV4V2s5a2JVNVhXbnBHVW1KdVFqUlVWV2hEVTJzMVJsZHNRbXBOVkd4aFZHcEdWbEJpVTFsalRqaEJhbmRZV21ka0xYcEtRbE15TUVGS1NGQnNWa2xtUTJobGVURlFVMWRpWjJOV1VXeEZkVEJxUTJoeFlXRnBlazlGZWtoVGRXUkhRWFo2ZGtKeVoxQjBlbkJ5V0ZSbVoybEthbE16U0RoM01DNVNNRVpHWVZWS2RGUnVXbWxpVkVadldXMW9UVmxyUm5WWFdHeE5ZbXRKZUZkWE1UUmpSbXcxVGxaS1RtSldTVEpXVkVaclRVZFdkRk5zV2xSaWJrSlhWbTB4TkZVeFVuSlZiVVpPVm01Q1YxVXlkRTlXUmxwWllVVldWbVZyU25KVmFrRXhVMVpHY2xOc1drNVNiSEJUVm0xd1QxbFhVbGRpTTJoVFlsZG9VMVpxU205a1ZsWllaRWQwYVdKRk5WaFphMVpQVm0xS1ZXSkZWbFpoYTBwSVdrZDRjMVpzU25WU2JFcFhWbGhDU2xZeWNFTmpNV1J6VW14b2FGTkdjRk5VVldSVFVURmFSMXBGWkZKaVZWcEpWMnRWZUZVd01YUlZhM1JYVFZaYVZGVlVTa3BrTVZKeVlVWktWMkV4Y0haV1ZscHJZakpLYzFSdVNtbFRSVnBZV1cxMGQxUXhiRmRWYkdST1RWaENTRmRyVmpCaGF6RnlWMnhzVjFKdGFGaFdSRVpoWkVkV1NXTkdaRmRpVmtwSlZrWlNTMVF5VFhsVGFscFdZWHBzV0ZSWGVFdGlNVmw1VFZSU1ZFMXJXa2RVVmxaclZrZEtSbGRzV2xwV2VrVXdWMVphYzA1c1JsVlNiWEJwVWxoQ05sWkVSbGRaVjBWNVUyeHNWbFpGV2xkWmExcGhZMnh3U0dWRldteFNia0pHVmpJeGQyRkhSWGhqUnpsWFlXdGFWRlY2Ums1bFJscHpVMnhHVjFKRlNqTldNblJoVjIxT2RHTkZNVkJYUlRSNldrVldXazVXY0VWU1dGSnBZbFJXVVZRd1pHRlZiVXBZWVVSS1ZGSldjSGhXYTFaeVpFZFNSV0ZGY0dsaVZuQlJWMFJKZUZaVk1YUlplbEpxVjBoQ1JsVnJaRlpPUmxwRllrWlNhRTFXU2paWGJYaHZZbGRXY21KNlFsaFdWVEUyVjIxemQyVnNaRlpPV0VwVVZrZFNXVmRYYTNkT1ZrcHlWVzA1VDJGVVJreFVha2sxVWtWNGMxTllaRk5oTVhCdlZteFdkMDFHV2toT1YwWm9WakJ3VmxWdE1EVlhiVXBZVldwS1ZtRnJjRkJWTVZwUFpGWmtkRkpzVGxObGJXY3c
+declare -gx REPL_SLUG=Calcy
+declare -gx REPL_LANGUAGE=html
+declare -gx GIT_ASKPASS=replit-git-askpass
+declare -gx REPLIT_BASHRC=/nix/store/sljr8697zka2mxn30fara6d362bqyaid-replit-bashrc/bashrc
+declare -gx REPL_HOME=/home/runner/Calcy
+declare -gx HOSTNAME=a73f9aa8063b
+declare -gx HOME=/home/runner
+declare -gx REPLIT_PID1_FLAG_NIXMODULES_BEFORE_REPLIT_NIX=1
+declare -gx XDG_DATA_HOME=/home/runner/Calcy/.local/share
+declare -gx NODE_EXTRA_CA_CERTS=/etc/ssl/certs/ca-certificates.crt
+declare -gx DISPLAY=:0
+declare -gx REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPL_IMAGE=gcr.io/marine-cycle-160323/nix:bf8590a3e2f0a8b70b7ca175eeed9074dffbfca9
+declare -gx XDG_CONFIG_HOME=/home/runner/Calcy/.config
+declare -gx NIX_PATH=nixpkgs=/home/runner/.nix-defexpr/channels/nixpkgs-stable-23_11:/home/runner/.nix-defexpr/channels
+declare -gx REPLIT_RIPPKGS_INDICES=/nix/store/mfrw2kh7ppd5qmjwm5sj9c41lkh2hlij-rippkgs-indices
+declare -gx DIRENV_CONFIG=/etc/direnv
+declare -gx DENO_TLS_CA_STORE=system
+declare -gx REPL_IDENTITY_KEY=k2.secret.N1XnCODDyDZfP79Kqrdhm61D5Ix8JCepeOXDCopFEDqSoM6VEF01Q5gMt08BLgeJ_MhKipfkHOrSkjgU6z9jtQ
+read -r _new_path <<< "/nix/store/s71vlhlz1kmkix09xcdkia291dmvgcv3-pid1/bin:/nix/store/ky4aqzdmv0j0rrbw14hr0xmsrf0amssl-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+#PATH=/nix/store/s71vlhlz1kmkix09xcdkia291dmvgcv3-pid1/bin:/nix/store/ky4aqzdmv0j0rrbw14hr0xmsrf0amssl-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+if [ -e "/run/replit/env/last" ]; then read -r _last_path < <(\grep '^#PATH=' /run/replit/env/last | cut -f 2 -d =); fi
+_user_components="$(\tr : $'\n' <<< "${PATH:-}" |\grep -xv -f <(\tr : $'\n' <<< "${_last_path}") |\tr $'\n' :)"
+declare -gx PATH="${_user_components}${_new_path}"
+declare -gx LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
+declare -gx SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPLIT_NIX_CHANNEL=stable-23_11
+declare -gx REPLIT_DEV_DOMAIN=42b475b7-c8c4-4ed6-a76b-63dc4e4c7276-00-nzjrozbhijxp.picard.replit.dev
+declare -gx REPLIT_DB_URL=https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE3MjY2ODY3NzgsImlhdCI6MTcyNjU3NTE3OCwiZGF0YWJhc2VfaWQiOiI0MmI0NzViNy1jOGM0LTRlZDYtYTc2Yi02M2RjNGU0YzcyNzYifQ.Vd0AKIfpKFusIniQsWxy4-z3Yztz23VN4D3w--ALoUOckMt-gJKwebxImykpHN9dI5S_ZuoAxsOuHLEt8AeQ-A

@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #d8f3f1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 20rem;
+  height: 30rem;
+  background-color: #324143;
+  border-radius: 1rem;
+  padding: 1rem;
+  position: relative;
+}
+
+.buttons {
+  /* position: absolute; */
+  /* top: 32%;
+  left: 8%; */
+  margin-top: 4.7rem;
+}
+
+.button {
+  width: 3rem;
+  height: 3rem;
+  background-color: #324143;
+  border-radius: 1rem;
+  margin: .5rem;
+  font-size: 1.5rem;
+  color: #d8f3f1;
+  cursor: pointer;
+}
+
+.buttons .elongate {
+  width: 7.1rem;
+  background-color: #d8f3f1;
+  color: #324143;
+}
+
+.container .input {
+  position: absolute;
+  top: 18%;
+  left: 8%;
+  width: 82%;
+  height: 3.5rem;
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: right;
+  background-color: #324143;
+  color: #d8f3f1;
+}
+
+input:focus {
+  outline: none;
+  border-color: #324143; /* Customize with your desired color */
+  /* box-shadow: 0 0 5px #324143; Optional: adds a shadow for better UX */
+
+}
+.container .Name {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding: .5rem;
+}
+
+.Name h2 {
+  font-size: 1.5rem;
+  color: #d8f3f1;
+}
